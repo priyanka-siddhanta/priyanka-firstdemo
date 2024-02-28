@@ -1,4 +1,4 @@
-# priyanka-firstdemo
+# priyanka-javacodesandprojects
 This is my first git repository.
 <br>
 Author - Priyanka Siddhanta
